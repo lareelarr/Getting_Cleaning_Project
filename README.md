@@ -21,3 +21,7 @@ Recognition (HAR) database, located at <http://archive.ics.uci.edu/ml/datasets/H
   * "Y_test.txt"
   
   * "X_test.txt"
+  
+  * "subject_test.txt"
+  
+  * "subject_train.txt"
